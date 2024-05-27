@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **bkinywa24@gmail.com**
 
-- 📄 Know about my experiences [https://b.barakakinywa.repl.co](https://b.barakakinywa.repl.co)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
