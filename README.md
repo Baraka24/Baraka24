@@ -14,6 +14,7 @@
 - 📫 How to reach me **bkinywa24@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+- An other profile: [Gravatar](https://gravatar.com/bkinywa24)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
