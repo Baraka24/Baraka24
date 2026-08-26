@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **HTML,CSS, Bootstrap,SQL, PHP,JS, ReactJs,**
 
-- 📫 How to reach me **bkinywa24@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 - An other profile: [Gravatar](https://gravatar.com/bkinywa24)
 
