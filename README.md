@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://barakakinywa.blogspot.com/](https://barakakinywa.blogspot.com/)
 
-- 💬 Ask me about **HTML,CSS, Bootstrap,SQL, PHP,JS, ReactJs,**
+- 💬 Ask me about **HTML,CSS, Bootstrap,SQL, PHP,JS, ReactJs, Python**
 
 - ⚡ Fun fact **I am funny**
 - An other profile: [Gravatar](https://gravatar.com/bkinywa24)
