@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baraka Kinywa</h1>
 
 <h3 align="center">A passionate web developer from DRCongo</h3>
-<img align="right" alt="Coding With Baraka Kinywa" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraka24&label=Profile%20views&color=0e75b6&style=flat" alt="baraka24" /> </p>
 
